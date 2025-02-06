@@ -1,6 +1,6 @@
 # Creating-a-Number-Classification-API
 
-This is a simple Flask API that classifies numbers and provides interesting mathematical properties about them, along with a fun fact.
+This is a Flask API that classifies numbers and provides interesting mathematical properties about them, along with a fun fact.
 
 ## Table of Contents
 
@@ -41,6 +41,7 @@ Classify Number
 
 - Query Parameters:
    `number:` The number to classify (must be a valid integer).
+
 Example Request:
 
 ```
